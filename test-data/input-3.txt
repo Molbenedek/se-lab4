@@ -1,0 +1,3 @@
+# Create a ship with primary store empty
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # should fire from the secondary store

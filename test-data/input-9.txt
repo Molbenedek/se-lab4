@@ -1,0 +1,4 @@
+# Create a ship with only the secondary store stocked
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # should fire from the secondary store
+TORPEDO,SINGLE  # should fail as there are no more torpedoes
