@@ -1,0 +1,3 @@
+# Create a ship with a faulty primary store and a stocked secondary store
+GT4500,10,1,10,0
+TORPEDO,ALL  # should fire only from the secondary store
