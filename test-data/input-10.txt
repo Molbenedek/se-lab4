@@ -1,0 +1,2 @@
+# Attempt to fire laser (should return false since not implemented)
+LASER,SINGLE
